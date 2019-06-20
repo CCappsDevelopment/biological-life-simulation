@@ -1,0 +1,12 @@
+QMainWindow {
+    background-color: #0e4180
+}
+
+QPushButton {
+    background-color: #0e4180
+}
+
+QComboBox {
+    background-color: #0e4180;
+    color: #b4e5b8
+}
